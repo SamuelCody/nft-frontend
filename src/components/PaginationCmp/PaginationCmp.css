@@ -1,0 +1,15 @@
+.vendar-pagination .rc-pagination-item {
+  display: none;
+}
+
+.vendar-pagination .rc-pagination-jump-prev,
+.vendar-pagination .rc-pagination-jump-next {
+  display: none;
+}
+
+.vendar-pagination .rc-pagination-prev.rc-pagination-disabled,
+.vendar-pagination .rc-pagination-next.rc-pagination-disabled {
+  background: #e6e8eb;
+  opacity: 0.5;
+  border: 1px solid #dfe2e9;
+}
